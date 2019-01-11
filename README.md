@@ -41,7 +41,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** I've had previous experience with Android Studio before and have created Android apps before, so I didn't have any new reactions to the platform. I remember the first time I created an app in Android Studio, I was overwhelmed at all of teh functionalities and it took me a while to learn and be comfortable with everything. I think that Android Studio has more "bells-and-whistles" than most platforms. If you know how to use them, they can help significantly. 
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
@@ -49,7 +49,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My only difficulty came in when following the YouTube videos with the coursework. All of the "required" functionalitiles are not displayed in the Implementation video. I am confused about requirements based on that. Also, since Android Studio has updated since the intitial videos were created, some terms (ie: "compile") have been retired. As a result, the videos aren't exact. 
 
 ## License
 
