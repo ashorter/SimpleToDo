@@ -35,6 +35,10 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+<img src='Walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+MP4 Walkthrough
+
 ## Project Analysis
 
 As part of your pre-work submission, please reflect on the app and answer the following questions below:
